@@ -1,0 +1,61 @@
+MENU
+1. Add a node to head
+2. Add a node to tail
+3. Delete a node from head
+4. Delete a node from tail
+5. Display node
+ENTER CHOICE :1
+Enter data: 67
+
+67
+
+DO YOU WISH TO CONTINUE?(Y/N)
+y
+MENU
+1. Add a node to head
+2. Add a node to tail
+3. Delete a node from head
+4. Delete a node from tail
+5. Display node
+ENTER CHOICE :2
+Enter data: 90
+
+67 --> 90
+
+DO YOU WISH TO CONTINUE?(Y/N)
+y
+MENU
+1. Add a node to head
+2. Add a node to tail
+3. Delete a node from head
+4. Delete a node from tail
+5. Display node
+ENTER CHOICE :1
+Enter data: 34
+
+34 --> 67 --> 90
+
+DO YOU WISH TO CONTINUE?(Y/N)
+y
+MENU
+1. Add a node to head
+2. Add a node to tail
+3. Delete a node from head
+4. Delete a node from tail
+5. Display node
+ENTER CHOICE :3
+67 --> 90
+
+DO YOU WISH TO CONTINUE?(Y/N)
+y
+MENU
+1. Add a node to head
+2. Add a node to tail
+3. Delete a node from head
+4. Delete a node from tail
+5. Display node
+ENTER CHOICE :4
+67
+
+DO YOU WISH TO CONTINUE?(Y/N)
+n
