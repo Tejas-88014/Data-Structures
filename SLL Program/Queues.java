@@ -32,7 +32,8 @@ if(rear==max-1) //full
     }
   }
 }//function ends
-  
+} //class ends
+
   int delete()
   {
     if(front==-1)
